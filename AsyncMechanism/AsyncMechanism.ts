@@ -46,5 +46,3 @@ async function exempluAsyncAwait(): Promise<void> {
 }
 
 exempluAsyncAwait();
-
-console.log("Test for push.");
