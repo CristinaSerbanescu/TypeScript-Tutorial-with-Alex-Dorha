@@ -16,6 +16,7 @@ function obtineDatePromise(): Promise<string> {
 function exempluCallback(): void {
   obtineDateSimulator((date) => {
     console.log("Rezultatul cu callback: ", date);
+    
   });
 }
 
